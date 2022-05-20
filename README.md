@@ -22,6 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anupam_73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anupam_73" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anupam-mohanty-341228204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anupam-mohanty-341228204/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/anupam.mohanty.1232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anupam.mohanty.1232" height="30" width="40" /></a>
 <a href="https://instagram.com/____j.e.w.e.l____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____j.e.w.e.l____" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@anupam_2003_moh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anupam_2003_moh1" height="30" width="40" /></a>
 </p>
