@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anupam Mohanty</h1>
 <h3 align="center">A  young-dumb😎, passionate frontend developer from India</h3>
 
-<img align="right" alt="coding src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ofrkgWJ0ird_xaJL_3b1cU4PLCsCSFMH8PZ-lOTI3px86qgMKC50CYAoIAAH1PPVByESyXTkfnM&usqp=CAU&ec=48665701">
+<img src="github logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam073&label=Profile%20views&color=0e75b6&style=flat" alt="anupam073" /> </p>
 
