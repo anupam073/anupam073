@@ -1,4 +1,4 @@
-![Anupam](Corporate.png)
+![Anupam](corporate.jpg)
 <h1 align="center">Hi 👋, I'm Anupam Mohanty</h1>
 <h3 align="center">A  young-dumb😎, passionate frontend developer from India</h3>
 
