@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![Automation Testing Banner](https://www.softwaretestingmaterial.com/wp-content/uploads/2021/09/Automation-Testing.png)
 
 # 💫 About Me:
 🔭 I’m currently working as an **Automation Test Engineer**<br>
