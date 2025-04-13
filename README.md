@@ -27,11 +27,40 @@ I am currently enhancing my knowledge through courses such as *The Joy of Comput
 - Email: **anupam.2003.mohanty@gmail.com**
 
 ## Professional Social Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-mohanty-341228204)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anupam_73)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-mohanty-341228204) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anupam_73) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/)
 
+## Technical Skills:
+### Programming Languages:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Test Automation Tools:
+![Selenium](https://img.shields.io/badge/Selenium-%2348A248.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-%233C4758.svg?style=for-the-badge&logo=appium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-%232C5263.svg?style=for-the-badge&logo=rest-assured&logoColor=white)
+
+### Cloud Technologies:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%23007CBB.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Version Control:
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Continuous Integration:
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Web Technologies:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Projects:
 - **EmotionEye**: Developed a real-time Face Emotion Recognition system using OpenCV & Python.
@@ -39,8 +68,6 @@ I am currently enhancing my knowledge through courses such as *The Joy of Comput
 - **Corporate Banking Portal**: Automated login, user management, and report validation for a corporate banking portal.
 - **Trading App Monitor**: Automated test scenarios for watchlist monitoring, IPO investments, and stock calls for a trading application.
 
-## GitHub Statistics:
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AYUSHKANUNGOext&theme=dark&hide_border=false)
 
 ## Latest Tweet:
 [![Latest Tweet](https://gtce.itsvg.in/api?username=Anupam_73)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
